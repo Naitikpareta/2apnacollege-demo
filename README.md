@@ -1,3 +1,3 @@
 # 2apnacollege-demo
 This is 2nd project I am building on Git hub
--Naitik pareta
+Author-Naitik pareta
